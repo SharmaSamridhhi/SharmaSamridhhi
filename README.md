@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![SharmaSamridhhi's Stats](https://github-readme-stats.vercel.app/api?username=SharmaSamridhhi&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![SharmaSamridhhi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharmaSamridhhi&theme=dark&hide_border=true)
 ![SharmaSamridhhi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SharmaSamridhhi&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![SharmaSamridhhi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SharmaSamridhhi&theme=dark&hide_border=true)
